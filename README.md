@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:E31837&height=180&section=header&text=CTF%20Write-ups%20%26%20Pen%20Test%20Labs&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Documented%20attack%20chains%20%7C%20Kali%20Linux%20%7C%20MITRE%20ATT%26CK%20mapped&descAlignY=58&descSize=16&animation=fadeIn" />
+# 🚩 CTF Write-ups & Pen Test Labs
+### Documented attack chains | Kali Linux | MITRE ATT&CK mapped
 
 [![Machines Completed](https://img.shields.io/badge/Machines%20Completed-5-E31837?style=for-the-badge&logo=hackthebox&logoColor=white)]()
 [![Platform](https://img.shields.io/badge/Platform-VulnHub%20%7C%20HTB-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]()
@@ -116,9 +117,3 @@ Aspiring Cyber Security Analyst based in London 🇬🇧
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/poushali-m)
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E31837,100:0d1117&height=100&section=footer" />
-
-</div>
